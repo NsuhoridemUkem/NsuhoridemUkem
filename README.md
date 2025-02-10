@@ -1,4 +1,4 @@
-**ABOUT ME**
+### About Me
 ### 👋 Hi, I'm Nsuhoridem Ukem!  
 **📊 Data Analyst | 📈 SQL | 📊 Excel | 📉 Tableau | 🐍 Learning Python**  
 
