@@ -11,6 +11,6 @@ I'm a data analyst passionate about turning raw data into meaningful insights. W
 
 ### Let's Connect!  
 📌 **LinkedIn:** linkedin.com/in/nsuhoridem-ukem 
-📌 **GitHub:** [Your GitHub Profile]  
+📌 **GitHub:** https://github.com/NsuhoridemUkem  
 
 Always open to collaboration and new opportunities!  
