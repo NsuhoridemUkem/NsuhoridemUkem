@@ -1,3 +1,4 @@
+**ABOUT ME**
 ### 👋 Hi, I'm Nsuhoridem Ukem!  
 **📊 Data Analyst | 📈 SQL | 📊 Excel | 📉 Tableau | 🐍 Learning Python**  
 
@@ -9,7 +10,7 @@ I'm a data analyst passionate about turning raw data into meaningful insights. W
 - Creating insightful dashboards and reports  
 
 ### 🌟 Let's Connect!  
-📌 **LinkedIn:** [Your LinkedIn Profile]  
+📌 **LinkedIn:** linkedin.com/in/nsuhoridem-ukem 
 📌 **GitHub:** [Your GitHub Profile]  
 
 Always open to collaboration and new opportunities!  
