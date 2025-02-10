@@ -10,7 +10,7 @@ I'm a data analyst passionate about turning raw data into meaningful insights. W
 - Creating insightful dashboards and reports  
 
 ### Let's Connect!  
-📌 **LinkedIn:** linkedin.com/in/nsuhoridem-ukem 
+📌 **LinkedIn:** https://linkedin.com/in/nsuhoridem-ukem 
 📌 **GitHub:** https://github.com/NsuhoridemUkem  
 
 Always open to collaboration and new opportunities!  
